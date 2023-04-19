@@ -5,6 +5,7 @@ metadata:
   labels:
     app: guestbook
     tier: frontend
+asdhiosdhfiojs
 spec:
   type: "{{ .Values.serviceType }}"
   ports:
